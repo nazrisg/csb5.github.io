@@ -1,8 +1,8 @@
 ---
 username: Bryan
 name: Bryan Lim Way Hern
-image: [Link to the person's photo]
-image_fun: (optional) [Link to the person's photo]
+image: '/images/members/Bryan.jpg'
+image_fun: '/images/members/Bryan_Fun.jpg'
 email: e1155370@u.nus.edu
 position: Intern
 is_intern: true
